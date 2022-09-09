@@ -6,7 +6,7 @@
 
 - 🌱 Tech Evangelist 
 - ⚡ Fun fact: Crypto trader
-- 🪄 <a href="https://github.com/WHuangz88"/> Secondary
+- 🪄 <a href="https://github.com/WHuangz89"/> Secondary
 
 ### Connect with me:
 
