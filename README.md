@@ -8,6 +8,13 @@
 - ⚡ Stock, Forex & Crypto trader
 - 🪄 <a href="https://github.com/WHuangz89"/> Secondary
 
+<a href="https://github.com/whuangz88/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=whuangz88&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only&hide_border=false" />
+</a> 
+<a href="https://github.com/whuangz88/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whuangz88&show_icons=true&theme=dark#gh-dark-mode-only&hide_border=false&langs_count=5" />
+</a>
+
 ### Connect with me:
 
 [<img align="left" alt="whuangz.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
@@ -32,13 +39,6 @@
 
 <br />
 <br />
-
-<a href="https://github.com/whuangz88/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=whuangz88&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only&hide_border=false" />
-</a> 
-<a href="https://github.com/whuangz88/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whuangz88&show_icons=true&theme=dark#gh-dark-mode-only&hide_border=false&langs_count=5" />
-</a>
 
 [website]: https://whuangz.xyz
 [linkedin]: https://linkedin.com/in/whuangz
